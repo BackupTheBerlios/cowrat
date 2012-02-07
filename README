@@ -1,0 +1,13 @@
+Run 'make' to compile
+Run 'make dist' for a source distribution
+Run 'make bindist' for distributing pre-compiled binaries.
+
+Do:
+
+  cd lib
+  java -jar chronos.jar 
+
+to run the application. Load sample/HouseBuildingDemo.xml and select
+one of the charts to see an example.
+
+See doc/Chronos.pdf for further details.

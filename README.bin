@@ -1,0 +1,8 @@
+Run by clicking on chronos.jar, or from the command prompt:
+
+java -jar chronos.jar 
+
+to run the application. Load sample/HouseBuildingDemo.xml and select
+one of the charts to see an example.
+
+See doc/Chronos.pdf for further details.
