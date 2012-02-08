@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: 1.3.0 (Sun Microsystems Inc.)
-Class-Path: . 
-Main-Class: ganttchart.editor.gui.Main
